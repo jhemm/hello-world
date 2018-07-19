@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hello,
+
+I love Web - Development, Software Development, Mobile Android developement.
